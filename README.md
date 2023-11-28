@@ -58,7 +58,7 @@ Your submission will be evaluated based on the following criteria:
 
 ## Deadline
 
-The deadline for this coding challenge is 3rd October 11:59pm. Late submissions may not be considered.
+The deadline for this coding challenge is 3rd December 11:59pm. Late submissions may not be considered.
 
 ## Questions and Assistance
 
