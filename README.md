@@ -37,12 +37,14 @@ Good luck, and we look forward to seeing the innovative solutions you create!
 
 ### Instructions
 
-1. Fork this repository to start your project.
+1. Fork this repository to start your project. ( Ensure that the repo is private untill you finish development ) 
 2. Create a new branch for your project.
 3. Choose at least two additional technologies from the provided list and incorporate them into your project.
 4. Implement the project according to the given specifications.
 5. Ensure that your code is well-documented and follows best practices.
-6. Submit a pull request from your branch to the main repository by the deadline.
+6. Host and deploy your project with a suitable provider. ( If you're unable to host the project, attach sufficient screenshots or video recordings. )
+7. Reply to the coding challenge email with the link to your repository.
+8. Ensure providing suitable instructions to run the project in the Readme.md file.
 
 ## Evaluation Criteria
 
