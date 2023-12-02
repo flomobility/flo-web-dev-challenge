@@ -33,7 +33,7 @@ io.use(authSocket);
 io.on("connection", (socket) => socketServer(socket));
 
 mongoose.connect(
-  "mongodb+srv://krm890524:MeeNA%402002@cluster0.gj2owwh.mongodb.net/FlomobilityData",
+  "<Add MONGO URI>",
   { useNewUrlParser: true, useUnifiedTopology: true },
   () => {
     console.log("MongoDB connected");
