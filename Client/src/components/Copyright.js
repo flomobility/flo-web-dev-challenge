@@ -7,7 +7,7 @@ const Copyright = () => {
     <Typography variant="subtitle1" color="text.secondary">
       Copyright © 2023{" "}
       <Link to="/" color="inherit">
-        HireQuotient
+        Flomobility
       </Link>
     </Typography>
   );

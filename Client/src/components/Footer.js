@@ -5,7 +5,7 @@ import React from "react";
 const Footer = () => {
   return (
     <Box pb={3}>
-      <Card> HireQuotient Assignment</Card>
+      <Card> Flomobility Assignment</Card>
     </Box>
   );
 };

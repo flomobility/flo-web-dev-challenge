@@ -227,7 +227,7 @@ const Messages = (props) => {
       spacing={2}
     >
       <AiFillMessage size={80} />
-      <Typography variant="h5">HireQuotient </Typography>
+      <Typography variant="h5">Flomobility </Typography>
     </Stack>
   );
 };
