@@ -10,12 +10,6 @@ Your task is to build a custom web application that incorporates the MERN stack 
 
 ### Technologies to be Used
 
-- **MERN Stack:**
-  - MongoDB: Database
-  - Express.js: Backend framework
-  - React: Frontend library
-  - Node.js: JavaScript runtime for the server
-
 - **Three.js:**
   - JavaScript library for creating 3D graphics in the browser
 
@@ -37,8 +31,7 @@ Good luck, and we look forward to seeing the innovative solutions you create!
 
 ### Instructions
 
-1. Fork this repository to start your project. ( Ensure that the repo is private untill you finish development ) 
-2. Create a new branch for your project.
+1. Create a new github repository for your project.
 3. Choose at least two additional technologies from the provided list and incorporate them into your project.
 4. Implement the project according to the given specifications.
 5. Ensure that your code is well-documented and follows best practices.
@@ -58,7 +51,7 @@ Your submission will be evaluated based on the following criteria:
 
 ## Deadline
 
-The deadline for this coding challenge is  **3rd December 11:59pm**. Late submissions may not be considered.
+The deadline for this coding challenge is  **10th December 11:59pm**. Late submissions may not be considered.
 
 ## Questions and Assistance
 
